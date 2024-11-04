@@ -1,7 +1,7 @@
-Sports - Starter Code
+Sports - Solution Code
 ==================================
 
-Starter code for the Android Basics with Compose: Sports app.
+Solution code by learner for the [Android Basics with Compose: Sports app](https://github.com/google-developer-training/basic-android-kotlin-compose-training-sports).
 
 Introduction
 ------------
